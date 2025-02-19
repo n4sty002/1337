@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE replace [<!ENTITY ent SYSTEM "file:///etc/passwd"> ]>
 <yml_catalog date="2025-02-19T10:37:38+03:00">
   <shop>
       <name>&ent;</name>
